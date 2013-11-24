@@ -23,7 +23,7 @@ External Dependencies
 Configuration
 =============
 
-Modify the environment variables to match your system
+Modify the environment variables in __awschamon-vars.sh__ to match your system
 
 ```
 mfranz@deb-t61:~/awschamon$ cat awschamon-vars.sh 
