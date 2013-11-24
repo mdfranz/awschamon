@@ -31,8 +31,7 @@ export AWSKEYDIR="/home/mfranz/.secret/awskeys"
 export AWSCHAMONHOME="/home/mfranz/awschamon"
 export AWSCHAMONDATA=$AWSCHAMONHOME/var
 export AWSCHAMONCONF=$AWSCHAMONHOME/etc
-export PATH=$PATH:$AWSCHAMONHOME/bin
-export PATH=$PATH:$AWSCHAMONHOME/sbin
+export PATH=$PATH:$AWSCHAMONHOME/bin:$AWSCHAMONHOME/sbin
 ```
 
 Add AWS a shell script to export the usual AWS CLI/Boto environment variables
