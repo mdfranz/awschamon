@@ -1,7 +1,6 @@
-awschamon
-=========
 
-What is AWS Chaos Monitor?
+What is AWS Chaos Monitor
+=========================
 
 The goal of this project is a set of tools for dealing with large numbers of AWS accounts across multiple regions. It provides a number of shell and python scripts for extracting useful and actionable .json output from AWS CLI tools and indexing them within Elastic Search for
 
